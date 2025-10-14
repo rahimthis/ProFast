@@ -6,7 +6,7 @@ const Footer = () => {
    <footer className="footer footer-horizontal footer-center bg-neutral  text-neutral-content p-10">
   <aside>
     <ProFastLogo/>
-    <p className="font-bold">
+    <p className="font-bold "  >
       ProFast Curier Ltd.
       <br />
       Providing reliable tech since 2020
