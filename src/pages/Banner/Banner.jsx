@@ -7,7 +7,7 @@ import banner3 from '../../assets/banner/banner3.png';
 
 const Banner = () => {
     return ( 
-        <Carousel showThumbs={false} showStatus={false}  autoPlay={true}>
+        <Carousel className='my-10' showThumbs={false} showStatus={false}  autoPlay={true}>
             <div>
                 <img src={banner1} />
             </div>
