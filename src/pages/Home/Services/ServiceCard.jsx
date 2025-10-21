@@ -2,7 +2,7 @@
 import React from "react";
 
 const ServiceCard = ({ servics }) => {
-  const { icon: Icon, title, description } = servics;
+  const { icon: Icon, title, description } = servics; 
   return (
     <div className="card bg-base-100 shadow-md hover:shadow-xl transition-shadow duration-300 p-6 border border-base-200">
       <div className="flex flex-col items-center text-center space-y-4">
